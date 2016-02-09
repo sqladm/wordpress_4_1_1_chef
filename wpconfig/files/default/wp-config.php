@@ -15,21 +15,21 @@
  */
 
 //*** Redis Server ***/
-define('WP_REDIS_HOST', 'wordpress-redis.2b2gjt.0001.use1.cache.amazonaws.com');
+define('WP_REDIS_HOST', '');
 
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress');
+define('DB_NAME', '');
 
 /** MySQL database username */
-define('DB_USER', 'wordpress');
+define('DB_USER', '');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'wordpress');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', 'wordpress.chpux0bc2g6t.us-east-1.rds.amazonaws.com');
+define('DB_HOST', '');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
